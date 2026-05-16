@@ -1,25 +1,36 @@
 # Sneha Patidar
 
-Backend Developer in Python. AI enthusiast who goes beyond using tools — I understand them.
-I build projects that solve real problems, no matter how small the scale.
-Curious by nature, communicative by choice, and upskilling every single day.
+Backend Developer · Python · AI Enthusiast · Problem Solver
+
+I don't just use AI tools — I understand them.
+I build backend systems that are clean, purposeful, and production-ready.
+Every project I take up exists to solve a real problem.
 
 ---
 
-## Tech Stack
+## Skills
 
-Python · FastAPI · MySQL · SQLAlchemy · Docker · Gemini API · JWT · Pytest
+**Backend** — Python, FastAPI, Django, REST APIs
+**Database** — MySQL, SQLAlchemy
+**AI/ML** — Google Gemini API, LLM Integration, Prompt Engineering
+**DevOps** — Docker, AWS S3, Git, GitHub
+**Testing** — Pytest, Locust
+**Core** — Data Structures & Algorithms
 
-Currently learning: JavaScript → React
+**Currently Learning** — MongoDB · Express.js · React · Node.js (MERN Stack)
 
 ---
 
 ## Featured Project
 
-**Smart Expense Tracker** — AI-powered expense categorization backend built with FastAPI,
-MySQL, Docker, and Google Gemini. Load-tested and production-ready.
+**HireTrack AI** — An intelligent job application tracker.
+Upload your resume, paste a job description, and get an AI-powered match score
+along with a precise skill gap analysis. Because job hunting deserves a smarter system.
 
-[View Project →](https://github.com/sneha-179/Smart-Expense-Tracker)
+`FastAPI` `MySQL` `Google Gemini` `AWS S3` `Docker` `JWT` `Pytest`
+22 test cases · Production-ready · Fully containerized
+
+[View Project →](https://github.com/sneha-179/HireTrack-AI)
 
 ---
 
